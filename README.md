@@ -5,11 +5,11 @@ We imagine that we can often see fireworks at some places in the night, this pro
 '''
 Data base : Mysql
 '''
-
+#
 '''
 Back-end : Rest service designed by SpringFramework, Hibernate, Maven
 '''
-
+#
 '''
 Front-end : Android
 '''
